@@ -1,6 +1,6 @@
 ![Imagen de Portada / Banner](https://raw.githubusercontent.com/Sentinela412/Sentinela412/1d2bb31dcf64b3fd3fbeb11557e7e9df452e57a4/data-center-electronic-equipment-used-monitoring-performance.jpg)
 
-# ¡Hola! Soy Jonathan Balseca (Sentinela412)
+# ¡Hola! Soy Jonathan Balseca 
 
 Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en la administración de infraestructura, auditoría de seguridad y automatización de procesos.
 
