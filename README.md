@@ -1,14 +1,20 @@
+![Imagen de Portada / Banner](https://raw.githubusercontent.com/Sentinela412/Sentinela412/refs/heads/main/premium_photo-1661877737564-3dfd7282efcb.avif)
+
 # ¡Hola! Soy Jonathan Balseca (Sentinela412)
 
 Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en la administración de infraestructura, auditoría de seguridad y automatización de procesos.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sentinela412&color=0078d6&style=flat-square&label=VISITAS+AL+PERFIL)
 ---
-### 🛠️ Tecnologías y Herramientas
 
-* **Sistemas y Redes:** Windows Server 2022, Active Directory, Linux (Kali, Ubuntu), VMware Workstation, VirtualBox, OpenSSH.
-* **Ciberseguridad:** Nmap, Wireshark, WPScan, Metasploit, auditorías de seguridad (PTES, ISO 27001, RGPD/LOPDGDD).
-* **Automatización y Desarrollo:** Power Automate, Power Apps, n8n, HTML/CSS, PowerShell, Bash.
-* **Inteligencia Artificial:** Certificado en herramientas de IA (Gemini, Copilot) 
+### 🛡️ Badges & Stack Tecnológico
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 
 ---
 
@@ -18,8 +24,34 @@ Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en 
 * ⚙️ **Proyectos:** Creación de entornos de laboratorio virtualizados y flujos de trabajo automatizados.
 * 📜 **Certificaciones:** Microsoft Copilot & Gemini AI Capabilities, Sistemas Microinformáticos y Redes.
 
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+* **Sistemas y Redes:** Windows Server 2022, Active Directory, Linux (Kali, Ubuntu), VMware Workstation, VirtualBox, OpenSSH.
+* **Ciberseguridad:** Nmap, Wireshark, WPScan, Metasploit, auditorías de seguridad (PTES, ISO 27001, RGPD/LOPDGDD).
+* **Automatización y Desarrollo:** Power Automate, Power Apps, n8n, HTML/CSS, PowerShell, Bash.
+* **Inteligencia Artificial:** Certificado en herramientas de IA (Gemini, Copilot).
+
+---
+
+### 💻 Entorno de Laboratorio / HomeLab
+
+* **Virtualización:** Despliegue de máquinas virtuales en VMware Workstation y VirtualBox para pruebas de red y auditorías.
+* **Redes y Servidores:** Configuración de Active Directory, SSH/SFTP, DNS, DHCP y servidores Web en Windows Server y distribuciones Linux.
+* **Análisis de Seguridad:** Escaneo de vulnerabilidades, análisis de tráfico con Wireshark y auditoría web mediante la metodología PTES e ISO 27001.
+---
+
+### 📋 Normativas y Metodologías de Ciberseguridad
+
+* **PTES (Penetration Testing Execution Standard):** Metodología estructurada de auditoría desde inteligencia de fuentes abiertas (OSINT) hasta informe final.
+* **ISO/IEC 27001:** Aplicación de políticas de seguridad física y lógica en entornos empresariales.
+* **RGPD / LOPDGDD:** Adaptación de repositorios y entornos de producción a normativas de privacidad.
+---
+
 ### 📈 Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sentinela412&theme=dark&hide_border=false&short_numbers=false)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sentinela412&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
