@@ -4,7 +4,7 @@
 
 Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en la administración de infraestructura, auditoría de seguridad y automatización de procesos.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sentinela412&color=0078d6&style=flat-square&label=VISITAS+AL+PERFIL)
+![Visitas al Perfil](https://komarev.com/ghpvc/?username=Sentinela412&color=0078d6&style=flat-square&label=VISITAS+AL+PERFIL)
 ---
 
 ### 🛡️ Badges & Stack Tecnológico
