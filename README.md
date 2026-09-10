@@ -13,6 +13,7 @@ Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en 
 [![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/windows-server/)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)
 [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-21426E?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org)
 [![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)](https://powerautomate.microsoft.com)
 
