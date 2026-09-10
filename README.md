@@ -9,12 +9,12 @@ Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en 
 
 ### 🛡️ Badges & Stack Tecnológico
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
+[![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/windows-server/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com)
+[![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)](https://powerautomate.microsoft.com)
 
 ---
 
