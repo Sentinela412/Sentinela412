@@ -5,6 +5,7 @@
 Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en la administración de infraestructura, auditoría de seguridad y automatización de procesos.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Sentinela412&label=VISITAS&countColor=%230078d6)](https://visitorbadge.io/status?path=Sentinela412)
+[![Flag Counter](https://s11.flagcounter.com/count2/Sentinela412/bg_0D1117/txt_FFFFFF/border_0078D6/columns_3/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/](https://info.flagcounter.com/Sentinela412)
 ---
 
 ### 🛡️ Badges & Stack Tecnológico
