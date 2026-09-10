@@ -1,4 +1,4 @@
-![Imagen de Portada / Banner](https://raw.githubusercontent.com/Sentinela412/Sentinela412/refs/heads/main/premium_photo-1661877737564-3dfd7282efcb.avif)
+![Imagen de Portada / Banner](https://raw.githubusercontent.com/Sentinela412/Sentinela412/1d2bb31dcf64b3fd3fbeb11557e7e9df452e57a4/data-center-electronic-equipment-used-monitoring-performance.jpg)
 
 # ¡Hola! Soy Jonathan Balseca (Sentinela412)
 
@@ -54,4 +54,5 @@ Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sentinela412&theme=dark&hide_border=false&short_numbers=false)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sentinela412&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
