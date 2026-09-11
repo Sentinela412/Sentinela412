@@ -9,7 +9,7 @@ Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en 
 
 ### 🛡️ Stack Tecnológico & Herramientas
 
-**Sistemas Operativos & Virtualización**
+
 [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-21426E?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
@@ -17,21 +17,14 @@ Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en 
 [![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/windows-server/)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)
 [![Metasploit](https://img.shields.io/badge/Metasploit-113A63?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
-
-**Ciberseguridad & Auditoría**
 [![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
 [![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
-
-**Servicios Web & Infraestructura**
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org)
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)](https://www.apachefriends.org/es/index.html)
 [![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C7835?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
-
-**Automatización, Desarrollo & IA**
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com)
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)](https://powerautomate.microsoft.com)
-
 ---
 
 ### 📌 Sobre mí
