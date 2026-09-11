@@ -37,14 +37,14 @@ Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en 
 
 ### 🛠️ Tecnologías y Herramientas
 
-* **Sistemas y Redes:** Windows Server 2022, Active Directory, Linux (Kali, Ubuntu), VMware Workstation, VirtualBox, OpenSSH.
-* **Ciberseguridad:** Nmap, Wireshark, WPScan, Metasploit, auditorías de seguridad (PTES, ISO 27001, RGPD/LOPDGDD).
-* **Automatización y Desarrollo:** Power Automate, Power Apps, n8n, HTML/CSS, PowerShell, Bash.
+* **Administración de Sistemas:** Configuración de Windows Server 2022, gestión de Active Directory, permisos OpenSSH / SFTP y despliegue en entornos Linux (Ubuntu, Kali).
+* **Ciberseguridad:** Escaneo de red con Nmap, análisis de tráfico de paquetes con Wireshark, auditorías web (WPScan, Metasploit).
+* **Automatización y Desarrollo:** Power Automate, Power Apps, n8n.
 * **Inteligencia Artificial:** Certificado en herramientas de IA (Gemini, Copilot).
 
 ---
 
-### 💻 Entorno de Laboratorio / HomeLab
+### 💻 Entorno de Laboratorio (HomeLab)
 
 * **Virtualización:** Despliegue de máquinas virtuales en VMware Workstation y VirtualBox para pruebas de red y auditorías.
 * **Redes y Servidores:** Configuración de Active Directory, SSH/SFTP, DNS, DHCP y servidores Web en Windows Server y distribuciones Linux.
@@ -53,9 +53,9 @@ Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en 
 
 ### 📋 Normativas y Metodologías de Ciberseguridad
 
-* **PTES (Penetration Testing Execution Standard):** Metodología estructurada de auditoría desde inteligencia de fuentes abiertas (OSINT) hasta informe final.
-* **ISO/IEC 27001:** Aplicación de políticas de seguridad física y lógica en entornos empresariales.
-* **RGPD / LOPDGDD:** Adaptación de repositorios y entornos de producción a normativas de privacidad.
+* **PTES (Penetration Testing Execution Standard):** Ejecución estructurada de pentesting desde la recolección de información hasta el informe de mitigación.
+* **ISO/IEC 27001:** Aplicación de controles de seguridad lógica, física y evaluación de riesgos en la infraestructura.
+* **RGPD / LOPDGDD:** Cumplimiento normativo y protección de datos en el tratamiento de información de producción.
 ---
 
 ### 📈 Github Stats
@@ -63,5 +63,3 @@ Técnico en **Sistemas Microinformáticos, Redes y Ciberseguridad** enfocado en 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sentinela412&theme=dark&hide_border=false&short_numbers=false)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sentinela412&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
